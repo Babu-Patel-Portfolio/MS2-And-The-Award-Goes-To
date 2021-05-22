@@ -55,11 +55,14 @@ The original structure was for a multi-page site but this was abandoned as it wo
 
 **Skeleton**
 
-*Wireframes*
+*[Wireframes](https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To/tree/master/wireframes)*
 
 - The wireframes were created using Balsamic, a popular wireframing tool, which Code Institute student can avail of as a fully licenced product.
 - This was done during the early stages of the project and demonstrates the structure of the website on different devices including mobile, tablet and desktop.
 
+- [Mobile Wireframes](https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To/blob/master/wireframes/Mobile.png)
+- [Tablet Wireframes](https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To/blob/master/wireframes/Tablet.png) 
+- [Desktop Wireframes](https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To/blob/master/wireframes/Desktop.png)
 
 
 
