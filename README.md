@@ -42,3 +42,49 @@ A simple single-player pattern-matching memory game.
 - Create a visually appealing site with clear game instructions
 - Further develop my knowledge and skills in writing JavaScript &amp; jQuery code
 
+
+
+**Scope**
+
+For the audience I want to present a fun and enjoyable game that is easy to understand and can be accessed on mobile devices, laptops and desktops. If they enjoy the game they might tell their friends.
+
+**Structure**
+
+The original structure was for a multi-page site but this was abandoned as it would not fit the user needs. Instead, a single page site, split into sections with a navigation bar at the top linking to each section.
+
+
+**Skeleton**
+
+*Wireframes*
+
+- The wireframes were created using Balsamic, a popular wireframing tool, which Code Institute student can avail of as a fully licenced product.
+- This was done during the early stages of the project and demonstrates the structure of the website on different devices including mobile, tablet and desktop.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
