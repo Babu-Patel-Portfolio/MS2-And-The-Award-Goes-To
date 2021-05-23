@@ -14,7 +14,7 @@ The main target audience for And The Award Goes To…. is fans of memory games a
 
 A simple single-player pattern-matching memory game.
 
-**User Experience (UX)**
+## User Experience (UX)
 
 **User stories**
 
@@ -42,7 +42,7 @@ A simple single-player pattern-matching memory game.
 - Create a visually appealing site with clear game instructions
 - Further develop my knowledge and skills in writing JavaScript &amp; jQuery code
 
-
+## UX Design
 
 **Scope**
 
