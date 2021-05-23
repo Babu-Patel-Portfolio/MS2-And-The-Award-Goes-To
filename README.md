@@ -68,6 +68,38 @@ The original structure was for a multi-page site but this was abandoned as it wo
 
 
 
+## Technologies Used (and to be used)
+
+During the development and testing of the website:
+
+- **Languages**
+
+   - [HTML5](https://en.wikipedia.org/wiki/HTML): Used to structure the page
+
+   - [CSS3](https://en.wikipedia.org/wiki/CSS): Used to style the different elements on the page
+   
+   - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Used to allow the game to produce relevant responses dependent on users' actions
+
+- **Frameworks and libraries**
+  - [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/): Bootstrap library was used to build the layout using the grid system
+  - [Google font](https://fonts.google.com/): Used for the fonts on the website
+  - [Font Awesome](https://fontawesome.com/): Used for the social media icons on the website
+
+- **Media & wireframes**
+  - [Balsamiq](https://balsamiq.com/wireframes/): To design the wireframes
+
+- **Workspaces & respository hosting**
+  - [Gitpod](https://www.gitpod.io/): As a local repository to develop the code
+  - [Visual Studio Code](https://code.visualstudio.com/): As a local repository to develop the code
+  - [Git](https://git-scm.com/): For version control from gitpod to save commits and push code onto GitHub
+  - [GitHub](https://github.com/): To save the code and deploy the live site
+- **Testing**
+  - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools): Google inspect was used examine and test responsiveness
+  - [Google Mobile Friendly Test](https://search.google.com/test/mobile-friendly?utm_source=gws&utm_medium=onebox&utm_campaign=suit): For additional mobile testing
+  - [Google lighthouse](https://developers.google.com/web/tools/lighthouse): Google lighthouse was used to assess performance of the site
+  - [W3C HTML Validator](https://validator.w3.org/): To check there's no error in the HTML code
+  - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/): To check there's no error in the CSS code
+
 
 
 
