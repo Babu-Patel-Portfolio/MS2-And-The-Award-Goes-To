@@ -65,6 +65,26 @@ The original structure was for a multi-page site but this was abandoned as it wo
 - [Desktop Wireframes](https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To/blob/master/wireframes/Desktop.png)
 
 
+**Surface**
+
+*Design*
+
+**Colour Scheme**
+
+Colours associated with award ceremonies tend to be warm and vibrant colours. Red carpets and gold statues. I wanted to add a palette to the website to convey this, along with an image of glamour an sophistication.
+
+![Colour scheme Image](wireframes/colourscheme.png)
+
+Chili Pepper #F51720 Pink #FA26A0 Gold #F8D210 Cyan #2FF3E0
+
+
+**Typography**
+
+- Roboto was chosen as the font for this project as the font family for this website it is currently very popular in modern web design. It has a clean and elegant with a readable shape, which suits the refined style the website is trying to achieve. 
+
+**Icons**
+
+- Icons are from the Font Awesome library
 
 
 
