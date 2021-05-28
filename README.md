@@ -101,7 +101,7 @@ During the development and testing of the website:
    - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Used to allow the game to produce relevant responses dependent on users' actions
 
 - **Frameworks and libraries**
-  - [Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/): Bootstrap library was used to build the layout using the grid system
+  - [Bootstrap 4.4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap library was used to build the layout using the grid system
   - [Google font](https://fonts.google.com/): Used for the fonts on the website
   - [Font Awesome](https://fontawesome.com/): Used for the social media icons on the website
 
