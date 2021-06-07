@@ -86,6 +86,37 @@ Chili Pepper #F51720 Pink #FA26A0 Gold #F8D210 Cyan #2FF3E0
 
 - Icons are from the Font Awesome library
 
+## Features
+
+**Existing**
+
+- Logo &amp; head title- Identifies the theme and type of game
+
+- Cursor changes to a pointer on items to click
+- Modal appears on clicking &#39;To Play&#39; icon giving instructions on game play
+- Sound icon, which enables/disables the audio
+- Cards are &quot;shuffled&quot; when the game is loaded/restarted
+- &quot;Shrink&quot; 3D effect to cards when clicked
+- Cards &quot;flip over&quot; when clicked
+- Image &quot;underneath&quot; the card is revealed when clicked
+- Cards return to original state if there no matched pair
+- Cards remain revealed if there is a matched pair
+- Points counter increases by 5 for a correct match
+- The points counter reduces by 2 for an incorrect match
+- A variety of human sound effects play when there is a correct ,incorrect match or game finished
+- &#39;Win&#39; modal shows on completion of game with final score
+- &#39;Win&#39; modal has a button to &quot;play again&quot;
+
+
+**Features to implement in the future:**
+
+The original wireframes reflected a number features that I wanted to implement but did not have the time or the technical knowledge to carry them out. Also problems with my laptop and a woeful internet connection meant much of the coding was done in vs. Code.
+
+- Include additional levels with perhaps 18 and 24 cards
+- Lock each level until the previous level is completed
+- Have a countdown timer which means the player can lose
+- Include descriptions of awards
+- Have a leader board of high scores
 
 
 ## Technologies Used (and to be used)
