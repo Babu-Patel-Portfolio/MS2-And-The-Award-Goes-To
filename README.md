@@ -193,11 +193,11 @@ Result was successfully responsive.
 
 - mobile receiving scores in the 90s for mobile 
 
-![Lighthouse mobile result](wireframes/Lightmobile.png)
+![Lighthouse mobile result](wireframes/lightmobile.png)
 
 - desktop receiving scores in the 90s for desktop 
 
-![Lighthouse mobile result](wireframes/lighthousedesktop.png)
+![Lighthouse desktop result](wireframes/lighthousedesktop.png)
 
 - **W3C HTML Validator**
 
