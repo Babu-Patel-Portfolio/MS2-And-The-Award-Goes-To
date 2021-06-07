@@ -244,6 +244,12 @@ All images sourced as freely-usable images and free stock photos from the websit
 Home - Photo by [Felix Mooneeram](https://unsplash.com/@felixmooneeram?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on Unsplash
 
 
+## Acknowledgements
+
+- My girlfriend for testing the game and voicing opinions on game aesthetics, such the theme, images, sounds, icons, colours, fonts and modal descriptions
+- My mentor for his ability to instil belief in me and to suggest extreme struggle is part of the process!
+- Fellow classmates for their unbridled enthusiasm, even though JavaScript was just about the hardest thing we have tried to understand during the course so far
+- Finally, as always the slack community, for its ability to lift your spirits and let you know you're not alone in this journey
 
 
 
