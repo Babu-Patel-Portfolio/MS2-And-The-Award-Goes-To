@@ -148,12 +148,15 @@ During the development and testing of the website:
 - **Testing**
   - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools): Google inspect was used examine and test responsiveness
   - [Google Mobile Friendly Test](https://search.google.com/test/mobile-friendly?utm_source=gws&utm_medium=onebox&utm_campaign=suit): For additional mobile testing
-  - [Google lighthouse](https://developers.google.com/web/tools/lighthouse): Google lighthouse was used to assess performance of the site
+  - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse): Google lighthouse was used to assess performance of the site
   - [W3C HTML Validator](https://validator.w3.org/): To check there's no error in the HTML code
   - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/): To check there's no error in the CSS code
+  - [JavaScript Code Checker](https://jshint.com/) To check there's no errorJavaScript code
 
 
+## Testing
 
+## Deployment
 
 ## Credits
 
