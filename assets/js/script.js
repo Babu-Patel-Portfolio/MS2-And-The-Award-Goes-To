@@ -1,3 +1,5 @@
+// jshint esversion: 6 
+
 // --- GENERAL CONSTANTS & VARIABLES FOR MEMORY GAME --- 
 
 const cards = document.querySelectorAll(".memory-card");
