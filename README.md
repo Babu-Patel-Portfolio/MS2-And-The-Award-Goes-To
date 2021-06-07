@@ -14,7 +14,7 @@ The main target audience for And The Award Goes To…. is fans of memory games a
 
 A simple single-player pattern-matching memory game.
 
-**User Experience (UX)**
+## User Experience (UX)
 
 **User stories**
 
@@ -42,7 +42,7 @@ A simple single-player pattern-matching memory game.
 - Create a visually appealing site with clear game instructions
 - Further develop my knowledge and skills in writing JavaScript &amp; jQuery code
 
-
+## UX Design
 
 **Scope**
 
@@ -55,15 +55,70 @@ The original structure was for a multi-page site but this was abandoned as it wo
 
 **Skeleton**
 
-*Wireframes*
+*[Wireframes](https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To/tree/master/wireframes)*
 
 - The wireframes were created using Balsamic, a popular wireframing tool, which Code Institute student can avail of as a fully licenced product.
 - This was done during the early stages of the project and demonstrates the structure of the website on different devices including mobile, tablet and desktop.
 
+- [Mobile Wireframes](https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To/blob/master/wireframes/Mobile.png)
+- [Tablet Wireframes](https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To/blob/master/wireframes/Tablet.png) 
+- [Desktop Wireframes](https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To/blob/master/wireframes/Desktop.png)
+
+
+**Surface**
+
+*Design*
+
+**Colour Scheme**
+
+Colours associated with award ceremonies tend to be warm and vibrant colours. Red carpets and gold statues. I wanted to add a palette to the website to convey this, along with an image of glamour an sophistication.
+
+![Colour scheme Image](wireframes/colourscheme.png)
+
+Chili Pepper #F51720 Pink #FA26A0 Gold #F8D210 Cyan #2FF3E0
+
+
+**Typography**
+
+- Roboto was chosen as the font for this project as the font family for this website it is currently very popular in modern web design. It has a clean and elegant with a readable shape, which suits the refined style the website is trying to achieve. 
+
+**Icons**
+
+- Icons are from the Font Awesome library
 
 
 
+## Technologies Used (and to be used)
 
+During the development and testing of the website:
+
+- **Languages**
+
+   - [HTML5](https://en.wikipedia.org/wiki/HTML): Used to structure the page
+
+   - [CSS3](https://en.wikipedia.org/wiki/CSS): Used to style the different elements on the page
+   
+   - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Used to allow the game to produce relevant responses dependent on users' actions
+
+- **Frameworks and libraries**
+  - [Bootstrap 4.4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap library was used to build the layout using the grid system
+  - [Google font](https://fonts.google.com/): Used for the fonts on the website
+  - [Font Awesome](https://fontawesome.com/): Used for the social media icons on the website
+
+- **Media & wireframes**
+  - [Balsamiq](https://balsamiq.com/wireframes/): To design the wireframes
+
+- **Workspaces & respository hosting**
+  - [Gitpod](https://www.gitpod.io/): As a local repository to develop the code
+  - [Visual Studio Code](https://code.visualstudio.com/): As a local repository to develop the code
+  - [Git](https://git-scm.com/): For version control from gitpod to save commits and push code onto GitHub
+  - [GitHub](https://github.com/): To save the code and deploy the live site
+- **Testing**
+  - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools): Google inspect was used examine and test responsiveness
+  - [Google Mobile Friendly Test](https://search.google.com/test/mobile-friendly?utm_source=gws&utm_medium=onebox&utm_campaign=suit): For additional mobile testing
+  - [Google lighthouse](https://developers.google.com/web/tools/lighthouse): Google lighthouse was used to assess performance of the site
+  - [W3C HTML Validator](https://validator.w3.org/): To check there's no error in the HTML code
+  - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/): To check there's no error in the CSS code
 
 
 
