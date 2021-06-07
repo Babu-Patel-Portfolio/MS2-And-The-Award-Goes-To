@@ -156,6 +156,62 @@ During the development and testing of the website:
 
 ## Testing
 
+- **Chrome DevTools** was used to test the website on the devices on listed below:
+
+- Moto G4
+- Galaxy S5 
+- Pixel 2
+- Pixel2XL
+- iPhone 5/SE
+- iPhone 6/7/8 
+- iPhone 6/7/8 Plus
+- iPhone X 
+- iPad 
+- iPad Pro 
+- Surface Duo 
+- Galaxy Fold   
+
+Result was successfully responsive.
+
+**The website was also tested** on the following personal devices
+
+- Lenovo laptop with a 15.6 screen 
+- Amazon Fire tablet with a 10.1 screen 
+- hp monitor with a 32in screen
+
+`      `Result was successfully responsive.
+
+- Significant testing to ensure the images and colours were in harmony
+
+- Additional testing for responsiveness on all pages was done through Google Mobile Friendly Test
+
+![Google Mobile Friendly Test](wireframes/googleMFT.png)
+
+- Result was mobile friendly.
+
+- **Google Lighthouse** was used to assess the performance of the site 
+
+- mobile receiving scores in the 90s for mobile 
+
+![Lighthouse mobile result](wireframes/Lightmobile.png)
+
+- desktop receiving scores in the 90s for desktop 
+
+![Lighthouse mobile result](wireframes/lighthousedesktop.png)
+
+- **W3C HTML Validator**
+
+- No errors
+
+- **W3C CSS Validator**
+
+- No errors
+- Gave a number warnings relating to &#39;unknown vendor extension&#39; errors. I choose to ignore that warning, as it is to do with the prefixes you are using for different browsers and it is considered best to be using these prefixes than not
+
+**JSHint Checker**
+
+- 1 warning
+
 ## Deployment
 
 ## Credits
