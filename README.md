@@ -150,6 +150,7 @@ During the development and testing of the website:
   - [Balsamiq](https://balsamiq.com/wireframes/): To design the wireframes
   - [Paint 3D](https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab): To design images
   - [WavePad](https://www.nch.com.au/wavepad/index.html?ns=true&amp;kw=wave%20pad&amp;gclid=Cj0KCQjwh_eFBhDZARIsALHjIKfnj_WuKa1xqegFYfzCjGZksWTPvto5lURMoxqVLK1FbNndX0ine5caAiq0EALw_wcB): To design and manipulate audio files
+  - [Am I Responsive](http://ami.responsivedesign.is/#): Image of site all devices
 - **Workspaces & respository hosting**
   - [Gitpod](https://www.gitpod.io/): As a local repository to develop the code
   - [Visual Studio Code](https://code.visualstudio.com/): As a local repository to develop the code
