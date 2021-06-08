@@ -123,6 +123,7 @@ Chili Pepper #F51720 Pink #FA26A0 Gold #F8D210 Cyan #2FF3E0
 - &#39;Win&#39; modal shows on completion of game with final score
 - &#39;Win&#39; modal has a button to &quot;play again&quot;
 - Footer advises where to send feedback
+- Footer has social media links
 
 **Features to implement in the future:**
 
