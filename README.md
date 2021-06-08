@@ -212,6 +212,26 @@ Result was successfully responsive.
 
 - 1 warning
 
+
+**User Stories**
+
+I felt that all but one of the user stories were met at the end of the project:
+
+- Play a game that is fun and exciting
+- Have the game to challenge my memory
+- Easily access instructions on how to play
+- Be able to read my score result
+- Test my memory skills in a fun environment
+- Have easy-to-use controls
+- Find clear, easy-to-follow instructions on gameplay
+- Have clear audio and visual cues which show where I have clicked
+- Be able to play with and without audio
+- See visually rewarding images themed around Award
+
+The below was not met as through a lack of technical skill and time constraints, as well as hardware and internet connection issues.
+
+- Have options to increase the difficulty of the game as I progress
+
 ## Deployment
 
 ## Credits
