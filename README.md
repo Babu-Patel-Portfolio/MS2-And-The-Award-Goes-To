@@ -4,7 +4,7 @@
 
 Interactive Frontend Development Milestone Project - Code Institute.
 
-The live website can be found [here](https://babusdublincoding.github.io/MS2-And-The-Award-Goes-To/https://babusdublincoding.github.io/MS2-And-The-Award-Goes-To/)
+The live website can be found [here](https://babusdublincoding.github.io/MS2-And-The-Award-Goes-To/)
 
 
 ![All Devices Image](wireframes/sitealldevices.png)
