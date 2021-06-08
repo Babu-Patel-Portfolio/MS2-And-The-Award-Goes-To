@@ -210,7 +210,7 @@ Result was successfully responsive.
 
 **JSHint Checker**
 
-- 1 warning
+- 1 warning for tenary operator
 
 
 **User Stories**
@@ -231,6 +231,36 @@ I felt that all but one of the user stories were met at the end of the project:
 The below was not met as through a lack of technical skill and time constraints, as well as hardware and internet connection issues.
 
 - Have options to increase the difficulty of the game as I progress
+
+
+**Features**
+
+The features below were tested and the resulting behaviour was working as expected
+
+- Logo &amp; head title- Identifies the theme and type of game
+- Cursor changes to a pointer on items to click
+- Modal appears on clicking &#39;To Play&#39; icon giving instructions on game play
+- Sound icon, which enables/disables the audio
+- Cards are &quot;shuffled&quot; when the game is loaded/restarted
+- &quot;Shrink&quot; 3D effect to cards when clicked
+- Cards &quot;flip over&quot; when clicked
+- Image &quot;underneath&quot; the card is revealed when clicked
+- Cards return to original state if there no matched pair
+- Cards remain revealed if there is a matched pair
+- Points counter increases by 5 for a correct match
+- The points counter reduces by 2 for an incorrect match
+- A variety of human sound effects play when there is a correct ,incorrect match or game finished
+- &#39;Win&#39; modal shows on completion of game with final score
+- &#39;Win&#39; modal has a button to &quot;play again&quot;
+
+**Bugs**
+
+Sometimes the images would not render, particularly the booker prize image. The reason for this is the name would often automatically change to a capital &#39;B&#39;. Once this changed, the image would appear.
+
+On occasions the code would not react as expected but re-entering the code once more seem to solve the problem.
+
+What appeared to be a bug was resolved by simply clearing the cache in the google browser.
+
 
 ## Deployment
 
