@@ -74,6 +74,12 @@ The original structure was for a multi-page site but this was abandoned as it wo
 - [Tablet Wireframes](https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To/blob/master/wireframes/Tablet.png) 
 - [Desktop Wireframes](https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To/blob/master/wireframes/Desktop.png)
 
+*Differences to the original Wireframes*
+
+As time went on the combination of several factors including a struggle with JavaScript, problems with computer hardware and the internet connection, it was possible to meet the requirements of the user stories but not the original design.
+
+Instead I opted for a much simpler design, still pleasing to a visitor but easier to create, given the time constraints.
+
 
 **Surface**
 
@@ -116,7 +122,7 @@ Chili Pepper #F51720 Pink #FA26A0 Gold #F8D210 Cyan #2FF3E0
 - A variety of human sound effects play when there is a correct ,incorrect match or game finished
 - &#39;Win&#39; modal shows on completion of game with final score
 - &#39;Win&#39; modal has a button to &quot;play again&quot;
-
+- Footer advises where to send feedback
 
 **Features to implement in the future:**
 
