@@ -270,6 +270,7 @@ The features below were tested and the resulting behaviour was working as expect
 - A variety of human sound effects play when there is a correct ,incorrect match or game finished
 - &#39;Win&#39; modal shows on completion of game with final score
 - &#39;Win&#39; modal has a button to &quot;play again&quot;
+- Social media links go to the correct sites
 
 **Bugs**
 
@@ -279,6 +280,7 @@ On occasions the code would not react as expected but re-entering the code once 
 
 What appeared to be a bug was resolved by simply clearing the cache in the google browser.
 
+Footer added but cover a bit of the screen - needs to be slimmed down.
 
 ## Deployment
 
