@@ -119,7 +119,7 @@ The original wireframes reflected a number features that I wanted to implement b
 - Have a leader board of high scores
 
 
-## Technologies Used (and to be used)
+## Technologies Used
 
 During the development and testing of the website:
 
@@ -263,6 +263,45 @@ What appeared to be a bug was resolved by simply clearing the cache in the googl
 
 
 ## Deployment
+
+And The Award Goes To… was developed on GitPod, and uses GitHub to host the repository.
+
+**To deploy And The Award Goes To… using GitHub Pages**
+
+Taken the following steps:
+
+- Opened up GitHub in the browser
+- Signed in with username and password
+- Selected my repositories
+- Navigated to https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To
+- In the top navigation clicked settings
+- On the left menu selected Pages
+- Selected Master Branch from the Source dropdown menu
+- Clicked save to confirm my selection
+- And The Award Goes To… is now live on GitHub Pages
+
+
+
+**To run**  **And The Award Goes To…**  **Locally**
+
+Cloning And The Award Goes To… from GitHub:
+
+- Navigate to https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To
+- Click the green Clone or Download button
+- Copy the url in the dropdown box
+- Using your preferred IDE open up your terminal
+- Navigate to your desired file location
+
+Copy the following code and input it into your terminal to And The Award Goes To…
+
+git clone https://github.com/BabusDublinCoding/MS2-And-The-Award-Goes-To
+
+
+More detailed information on cloning can be found [here]( https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+
+
+
+
 
 ## Credits
 
